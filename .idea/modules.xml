@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SanboxHome.iml" filepath="$PROJECT_DIR$/.idea/modules/SanboxHome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SandboxHomeNew.iml" filepath="$PROJECT_DIR$/.idea/modules/SandboxHomeNew.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SandboxHomeNew_main.iml" filepath="$PROJECT_DIR$/.idea/modules/SandboxHomeNew_main.iml" group="SandboxHomeNew" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SandboxHomeNew_test.iml" filepath="$PROJECT_DIR$/.idea/modules/SandboxHomeNew_test.iml" group="SandboxHomeNew" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/addressbook-selenium-tests.iml" filepath="$PROJECT_DIR$/.idea/modules/addressbook-selenium-tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/addressbook-selenium-tests_main.iml" filepath="$PROJECT_DIR$/.idea/modules/addressbook-selenium-tests_main.iml" group="addressbook-selenium-tests" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/addressbook-selenium-tests_test.iml" filepath="$PROJECT_DIR$/.idea/modules/addressbook-selenium-tests_test.iml" group="addressbook-selenium-tests" />
+    </modules>
+  </component>
+</project>

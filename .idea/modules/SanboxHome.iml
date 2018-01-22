@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="SanboxHome" external.linked.project.path="$MODULE_DIR$/../../SanboxHome" external.root.project.path="$MODULE_DIR$/../../SanboxHome" external.system.id="GRADLE" external.system.module.group="telranqa" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../Sanbox">
+      <excludeFolder url="file://$MODULE_DIR$/../../SanboxHome/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../SanboxHome/out" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Sanbox/.gradle" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
